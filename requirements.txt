@@ -6,3 +6,4 @@ pandas
 jupyter 
 notebook
 ipywidgets
+pygame-ce
